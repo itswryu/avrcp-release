@@ -2,7 +2,7 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-이 애플리케이션은 아이나비 X1 오디오 컨트롤러 기반의 Android 앱으로, 차량 스티어링 휠 버튼을 통해 음악 재생을 제어하고, Apple CarPlay 어댑터(AutoKit)와 연동하여 기능을 확장합니다.
+이 애플리케이션은 아이나비 X1 오디오 컨트롤러 기반의 Android 앱으로, 차량 스티어링 휠 버튼을 통해 음악 재생을 제어하고, Apple CarPlay 어댑터(Carlinkit 1.0)와 연동하여 기능을 확장합니다.
 
 ## 목차
 
@@ -97,6 +97,8 @@ AutoKit 앱은 하드웨어 버튼 매핑 방식을 사용하며, 미디어 제�
 
 본 프로젝트는 [지이](https://blog.naver.com/ji2soft)님의 원본 프로젝트를 기반으로 개발되었습니다.
 
-원본 프로젝트의 소스 코드를 제공해주신 지이님께 감사드립니다.# 문의
+원본 프로젝트의 소스 코드를 제공해주신 지이님께 감사드립니다.
+
+## 문의
 
 버그 리포트 및 기능 요청은 [GitHub Issues](https://github.com/itswryu/new-avrcp/issues)를 이용해 주세요.
